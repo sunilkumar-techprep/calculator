@@ -6,19 +6,19 @@
   font-size: 2.5rem ;
   font-family: Arial, sans-serif;
   }
- table{
+  table{
      width: 100%;
- }
- td{
+  }
+  td{
      width:25%;
- }    
- button{
+   }    
+   button{
     width: 100%;
     background-color:black;
     color:white;
     height: 72px;
     font-size: 28px;
- }       
+    }       
    input{
      width: 99%;
      height: 90px;
@@ -34,5 +34,4 @@
      background-color:aliceblue;
      color: white;
      transition: 0.5s ease-in-out;
- }
- 
+    }
