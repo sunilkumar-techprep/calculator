@@ -1,4 +1,3 @@
-
  let num=" ";
 function number (num){
     var result =document.getElementById("input")
